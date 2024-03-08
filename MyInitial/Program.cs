@@ -14,6 +14,7 @@ namespace MyNameSpace
         [STAThread]
         static void Main()
         {
+            //11
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new TicketsForm());
