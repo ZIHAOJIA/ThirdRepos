@@ -15,6 +15,7 @@ namespace MyNameSpace
         static void Main()
         {
             Application.EnableVisualStyles();
+            //22
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new TicketsForm());
         }
